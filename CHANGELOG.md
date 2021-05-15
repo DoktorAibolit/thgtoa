@@ -1,12 +1,7 @@
 v0.9.4
 
 
-v0.9.3
-- Added reference to <https://disable-gatekeeper.github.io/> and how to disable MacOS Gatekeeper on Big Sur
-- Various grammar/spelling/layout fixes
-- Transifex translations are now possible and open for any volunteer. Currently some are working on Russian/Ukrainian
-- Added https://crypton.sh/ to the list of Monero accepting phone number providers
-- Added reference to e-mail tracking in the Malware section
+mail tracking in the Malware section
 - Updated DNS section to reflect change from eSNI to ECH
 - Added more OSINT video tutorials references from Bellingcat
 - Added information about OCSP stapling in the DNS section
