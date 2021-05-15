@@ -1,12 +1,5 @@
 v0.9.4
-- Added reference to <https://www.youtube.com/watch?v=FDZ39h-kCS8> in the Smart Devices around you section
-- Added reference to TypingDNA (<https://www.typingdna.com/>) in the Online Behavior section
-- Various small spelling fixes
-- Added reference to SORM (Russia) along PRISM,XKEYSCORE...
-- Added reference to smarttags (Apple AirTags, Samsung Smarttags, Tile...) in the smart devices section
-- Added reference to Michael Bazzell's interesting OSINT Techniques book <https://inteltechniques.com/book1.html> in the bonus resources section
-- Added reference to LibGen in the Introduction section in addition to Sci-Hub
-- Fixed some ordering issues in the various sections that were re-ordered in previous updates
+
 
 v0.9.3
 - Added reference to <https://disable-gatekeeper.github.io/> and how to disable MacOS Gatekeeper on Big Sur
@@ -82,8 +75,8 @@ v0.8.7
 - Added reference to <https://www.scss.tcd.ie/doug.leith/apple_google.pdf> in the Smart Devices section and the OS Telemetry section.
 - Moved/rephrased small introduction paragraph about Apple being among the best choices for Privacy in the OS and Telemetry section.
 - Changed recommendation for Android VM to Androix-x86 CyanogenMod releases (14.1 r5 at the time of this writing)
-- Several small spelling/grammar/layout fixes 
-- Added more explanation and illustration to the basic concept of Virtualization through a new Appendix 
+- Several small spelling/grammar/layout fixes
+- Added more explanation and illustration to the basic concept of Virtualization through a new Appendix
 - Fixed illustration to mention Tor Stream Isolation possibilities
 - Added a couple easter eggs because why not
 
@@ -109,9 +102,9 @@ v0.8.5
 - Changed all lines containing code lines into inline code for better readability on the online version
 - Migrated my Mastodon account to <https://mastodon.online/@anonypla> (old one redirected automatically)
 - Fixed Tor over VPN section that was clearly missing emphasis on it being a viable option with good use cases
-- Added more information in the Pick your Connectivity conclusions for a better overview 
+- Added more information in the Pick your Connectivity conclusions for a better overview
 - Added section about Online file Syncing in the Online Backup section
-- Added more information about messaging apps and a rather detailed table comparing their privacy/security/anonymity features 
+- Added more information about messaging apps and a rather detailed table comparing their privacy/security/anonymity features
 - Added disclaimer on reddit/discord to not discuss sensitive topics on those platforms
 
 v0.8.4
@@ -200,7 +193,7 @@ v0.7.7
 - Added basic UML diagram to pick your route
 - Added basic UML diagrams for picking your connectivity methods
 - Added illustration of the TAILS with HiddenVM option
-- Rescaled some images that were way too big 
+- Rescaled some images that were way too big
 - Added a whole bunch of platforms to the Online Identities section
 - Added more references to German law in the Online Identities section
 - Added a legend to the Online Identities overview table
@@ -222,10 +215,10 @@ v0.7.6
 v0.7.5
 - Added reference to <https://github.com/rshipp/awesome-malware-analysis> in the Malware analysis appendix
 - Many small fixes in layout/spelling/grammar
-- Added quotes around VirusTotal "privacy policy" 
+- Added quotes around VirusTotal "privacy policy"
 - Changed "Exploits in your Apps" to "Malware and Exploits in your Apps"
 - Added references to State surveillance using "mandatory" apps such as WeChat.
-- Added Wikipedia reference to <https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects> 
+- Added Wikipedia reference to <https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects>
 - Added guidance and references to check files for integrity and authenticity in the "Checking files for malware" section.
 - Added emphasis on recommendation of using Tor Browser on the Host OS if Tor is available.
 - Removed GPG signatures from markdown and text files to instead sign the whole release for convenience in Contribution workflow.
@@ -242,9 +235,9 @@ v0.7.4
 - Various spelling/grammar fixes
 - Started adding some proper code blocks in the online Markdown version and will slowly adopt this in the whole guide in the future
 - Fixed the Title missing a T
-- Fixed a an hyperlink issue causing PDFID to detect an Automatic Action on guide.pdf 
+- Fixed a an hyperlink issue causing PDFID to detect an Automatic Action on guide.pdf
 - Added warning in README concerning VirusTotal "privacy policy"
-- Changed the PDFID warnings in the README to better explain their meaning for checking the PDFs published here	
+- Changed the PDFID warnings in the README to better explain their meaning for checking the PDFs published here
 - Started fixing some accessibility issues in the guide (bad indents, empty spaces...)
 - Fixed some bad links in cross-references
 - Changed link from <https://panopticlick.eff.org/> to <https://coveryourtracks.eff.org/>
@@ -278,13 +271,13 @@ v0.7.0
 - Added guidance for using Tor Bridges with Tor Browser, TAILS, Whonix and Qubes OS.
 - Added last resort guidance for situations where Tor and/or VPN might not be possible options.
 - Added guidance to use Long Range Antennas (Yagi type) for connecting to Public Wi-Fis from a safe distance
-- Added new face recognition reference and gait recognition reference 
+- Added new face recognition reference and gait recognition reference
 - Added dark themed PDF
 - Fixed error in Windows VM installation behind Whonix (missing Network setting)
 - Various grammar/spelling fixes
 
 v0.6.9
-- Fixes/Adds to the online phone numbers sections. Recommendations based on identification requirements. 
+- Fixes/Adds to the online phone numbers sections. Recommendations based on identification requirements.
 - Grammar/Spelling fixes.
 
 v0.6.8
@@ -360,11 +353,11 @@ v0.5.7
 v0.5.6
 - Added donations/sponsorship support to this project using Monero
 - Added reference to Law Enforcement surveillance capabilities (CCC video)
-- Added guidance to remove some forensic traces from MacOS 
+- Added guidance to remove some forensic traces from MacOS
 - Added guidance to remove some forensic traces from Linux (log deletion and trim)
 - Added variants for securely erasing SSD drives (only ATA drives were mentioned, added specific info for NVMe drives).
 - Added lists of laptop brands supporting Secure Erase (SSD) from BIOS/UEFI.
-- Changed recommendation from GParted to System Rescue instead due to GParted not providing nvme-cli by default. 
+- Changed recommendation from GParted to System Rescue instead due to GParted not providing nvme-cli by default.
 - Fix: Multiple fixes in SDD/HDD sections (layout, duplicate data...)
 - Fix: Multiple fixes in SDD secure erasing section and added various warnings for various methods
 - Fix: Removed blkdiscard from wrong section and from MacOS as it's not supported on MacOS by Homebrew
@@ -393,7 +386,7 @@ v0.5.0
 v0.4.9
 - Various small spelling/grammar/layout fixes
 - Added some Laptop recommendations and more info about Libreboot and Coreboot
-- Added various references to key disclosure laws 
+- Added various references to key disclosure laws
 - Added guidance to create a mat2-web guest Debian VM for removing metadata from files conveniently
 - Changed CHANGELOG to markdown for integrating into GitHub Pages
 
